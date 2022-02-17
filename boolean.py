@@ -22,3 +22,5 @@ bool([])
 bool({})
 """
 print(bool())
+
+print(bool("rr"))
